@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="/scheddo-log.svg" width="400" alt="scheddo Logo">
+    <img src="/scheddo-logo.svg" width="400" alt="scheddo Logo">
 </p>
 
 ## Introduction
