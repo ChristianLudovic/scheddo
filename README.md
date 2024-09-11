@@ -4,18 +4,18 @@
 
 ## Introduction
 
-Scheddo est un application web permettant aux utilisateurs de reserver des rendez-vous pour des services (coiffure, barber, manicure, pedicure...)
+Scheddo is a web application enabling users to book appointments for services (hairdressing, barbering, manicure, pedicure...).
 
 ## Tech stack
 
-- [Laravel] - PHP Framework (https://laravel.com/docs/routing).
-- [Livewire](https://laravel.com/docs/container).
-- [Tailwind] - Css(https://laravel.com/docs/session)
-- [GitHub] - Version control(https://laravel.com/docs/eloquent).
+- [Laravel]-Framework(https://laravel.com/docs/routing).
+- [Livewire](https://laravel-livewire.com).
+- [Tailwind]-css(https://tailwind.com)
+- [GitHub]-Version_control(https://github.com).
 
 ## Author
 
-- Christian Ludovic [@ChristianLudovic] (https://github.com/ChristianLudovic)
+- Christian Ludovic [@ChristianLudovic](https://github.com/ChristianLudovic)
 
 ## License
 
