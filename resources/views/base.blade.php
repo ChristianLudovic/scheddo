@@ -10,7 +10,7 @@
 </head>
 <body class="bg-gray">
     <header>
-        @include('livewire.partials.header')
+        @include('livewire.partials.header-user-connected')
     </header>
     <main class="text-[15px] text-text">
         @yield('content')
