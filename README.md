@@ -8,10 +8,10 @@ Scheddo is a web application enabling users to book appointments for services (h
 
 ## Tech stack
 
-- [Laravel]-Framework(https://laravel.com/docs/routing).
+- [Laravel](https://laravel.com/docs/routing) - Framework.
 - [Livewire](https://laravel-livewire.com).
-- [Tailwind]-css(https://tailwind.com)
-- [GitHub]-Version_control(https://github.com).
+- [Tailwind](https://tailwind.com) - css
+- [GitHub](https://github.com - Version control).
 
 ## Author
 
