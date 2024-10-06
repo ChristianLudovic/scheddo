@@ -1,19 +1,17 @@
 <p align="center">
-    <img src="/scheddo-log.svg" width="400" alt="scheddo Logo">
+    <img src="/public/scheddo-logo.svg" width="200" alt="scheddo Logo">
 </p>
 
 ## Introduction
 
-Scheddo est un application web permettant aux utilisateurs de reserver des rendez-vous pour des services (coiffure, barber, manicure, pedicure...)
+Scheddo is a web application enabling users to book appointments for services (hairdressing, barbering, manicure, pedicure...).
 
 ## Tech stack
 
-- [Laravel]-PHP Framework(https://laravel.com/docs/routing).
+- [Laravel] - PHP Framework (https://laravel.com/docs/routing).
 - [Livewire](https://laravel.com/docs/container).
-- [Tailwind]-css(https://laravel.com/docs/session)
-- [GitHub]-Version control(https://laravel.com/docs/eloquent).
-
-## Some Ui of Scheddo
+- [Tailwind] - Css(https://laravel.com/docs/session)
+- [GitHub] - Version control(https://laravel.com/docs/eloquent).
 
 ## Author
 
