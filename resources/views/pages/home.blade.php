@@ -23,7 +23,7 @@
                     <h1 class="text-text text-[30px] font-bold">Vurve-Bangolore</h1>
                     <div class="flex space-x-[20px] items-center">
                         @livewire('components.button', ['btnName' => 'Enquire', 'btnType' => 'secondary', 'route' => 'home'])
-                        @livewire('components.button', ['btnName' => 'Book now', 'btnType' => 'primary', 'route' => 'services'])
+                        @livewire('components.button', ['btnName' => 'Book', 'btnType' => 'primary', 'route' => 'select-services'])
                     </div>
                 </div>
                 <div class="flex items-center justify-between ">

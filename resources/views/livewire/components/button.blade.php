@@ -1,4 +1,5 @@
 <button 
+    wire:click="handleClick"
     class="
     @if($btnType == 'primary') bg-primary text-white
     @elseif($btnType == 'secondary') bg-gray text-tertiary
@@ -6,5 +7,4 @@
     @endif
     py-3 px-9 rounded-[8px] font-semibold w-full
     "
-    wire:click="redirectTo('{{$route}}')"
 >{{$btnName}}</button>

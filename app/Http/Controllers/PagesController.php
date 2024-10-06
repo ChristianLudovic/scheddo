@@ -11,9 +11,14 @@ class PagesController extends Controller
         return view('pages.home');
     }
 
-    public function services()
+    public function selectServices()
     {
         return view('pages.selectService');
+    }
+
+    public function selectTime()
+    {
+        return view('pages.selectTime');
     }
 
     public function createAccount()

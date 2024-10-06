@@ -12,7 +12,7 @@
             <div class="flex flex-col space-y-3 max-w-[751px] w-full bg-white pt-[20px] pb-8 items-center rounded-[8px]">
                 <div class="max-w-[452.5px] w-full flex flex-col items-center space-y-3">
                     @livewire('components.button', ['btnName' => 'Sign up with email', 'btnType' => 'primary'])
-                    @livewire('components.button', ['btnName' => 'Continue with Google', 'btnType' => 'outline'])
+                    @livewire('components.button', ['btnName' => 'Continue with Google', 'btnType' => 'outline', 'route' => 'google-login'])
                     @livewire('components.button', ['btnName' => 'Continue with Facebook', 'btnType' => 'outline'])
                     <p class="text-[14px] text-tertiary">Already have an account ?</p>
                     <button class="text-[14px] font-bold text-primary">Log in Now</button>
@@ -49,5 +49,6 @@
         </div>
         
     </div>
+    @livewire('components.sonner')
 @endsection
 

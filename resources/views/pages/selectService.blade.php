@@ -36,7 +36,7 @@ $services = [
                 <div 
                     x-data="{ 
                         activeTab: 'Haircut', 
-                        selectedService: null,
+                        selectedService: 'Haircut - Premier Stylist',
                         selectService(serviceName) {
                             this.selectedService = (this.selectedService === serviceName) ? null : serviceName;
                         }
@@ -99,7 +99,7 @@ $services = [
                     <p class="text-[15px] font-semibold">30USD</p>
                 </div>
                 <div class="py-3 px-8 flex">
-                    @livewire('components.button', ['btnName' => 'Continue', 'type' => 'primary'])
+                    @livewire('components.button', ['btnName' => 'Continue', 'type' => 'primary', 'route' => 'select-time'])
                 </div>
             </div>
         </div>

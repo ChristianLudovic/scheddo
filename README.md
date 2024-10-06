@@ -8,14 +8,16 @@ Scheddo est un application web permettant aux utilisateurs de reserver des rende
 
 ## Tech stack
 
-- [Laravel] - PHP Framework (https://laravel.com/docs/routing).
+- [Laravel]-PHP Framework(https://laravel.com/docs/routing).
 - [Livewire](https://laravel.com/docs/container).
-- [Tailwind] - Css(https://laravel.com/docs/session)
-- [GitHub] - Version control(https://laravel.com/docs/eloquent).
+- [Tailwind]-css(https://laravel.com/docs/session)
+- [GitHub]-Version control(https://laravel.com/docs/eloquent).
+
+## Some Ui of Scheddo
 
 ## Author
 
-- Christian Ludovic [@ChristianLudovic] (https://github.com/ChristianLudovic)
+- Christian Ludovic [@ChristianLudovic](https://github.com/ChristianLudovic)
 
 ## License
 

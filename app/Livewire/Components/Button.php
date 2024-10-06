@@ -12,9 +12,20 @@ class Button extends Component
     public $route='';
     public $btnClass = '';
 
-    public function redirectTo($route)
+    public function triggerNotification()
     {
-        return redirect()->route($route);
+        $this->dispatch('triggerNotification');
+    }
+
+    public function handleClick()
+    {
+        if ($this->btnName != 'Continue with Google') {
+            $this->triggerNotification();
+        }
+        
+        if ($this->route) {
+            return redirect()->route($this->route);
+        }
     }
 
     public function render()
